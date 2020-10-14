@@ -1,0 +1,60 @@
+p
+{
+	font-size:14px;
+	margin:2px;
+	padding: 2px;
+}
+canvas
+{
+	border: 2px solid;
+	margin: auto;
+	width: 75%; 
+	height: 85%;
+}
+
+.content
+{
+	width: 820px; 
+	height: 400px;
+	border: 2px solid;
+	margin: auto;
+	display: flex;
+	justify-content: space-evenly;
+	
+}
+
+.control
+{
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	width: 180px; 
+	height: 300px;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap; 
+}
+button
+{
+	
+	width: 170px; 
+	height: 40px;
+	
+}
+
+input
+{
+	width: 170px; 
+	height: 40px;
+}
+
+.name
+{
+
+	border: 1px solid;
+	position: absolute;
+	margin: 360px 0px 0px 5px;
+	width: 184px; 
+	height: 20px;
+	
+}
